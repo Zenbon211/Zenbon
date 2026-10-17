@@ -1,0 +1,5 @@
+interface:
+  display_name: "Make Knowledge Cards"
+  short_description: "Turn pasted text or a local note file into 5-8 study cards"
+  brand_color: "#2563EB"
+  default_prompt: "Use $make-knowledge-cards to turn the text I paste into 5-8 knowledge cards."

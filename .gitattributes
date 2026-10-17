@@ -1,0 +1,2 @@
+# 统一换行符：仓库内与检出后都用 LF，避免跨平台 churn
+* text=auto eol=lf
